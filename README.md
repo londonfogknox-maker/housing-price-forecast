@@ -2,6 +2,8 @@
 
 ### "Is this home worth owning in 30 years?"
 
+<img width="1290" height="634" alt="home" src="https://github.com/user-attachments/assets/ad91dcdb-3861-4cb8-9ef9-f88848999d53" />
+
 #### Link: (soon)
 
 This app makes projected values of Florida homeowner's future home costs with an emphasis on the portion of increased insurance over the next 30 years. 

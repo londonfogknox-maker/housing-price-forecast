@@ -4,9 +4,9 @@
 
 <img width="1290" height="634" alt="home" src="https://github.com/user-attachments/assets/ad91dcdb-3861-4cb8-9ef9-f88848999d53" />
 
-#### Link: (soon)
-
 This app makes projected values of Florida homeowner's future home costs with an emphasis on the portion of increased insurance over the next 30 years. 
+
+## Use
 
 User's can input their basic home properity details and toggle a "what-if" insurance growth rate for varies possible rates:
 
@@ -16,11 +16,11 @@ User's can input their basic home properity details and toggle a "what-if" insur
 
 ## Made With
 
-[Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+* **Next JS** and **Tailwind CSS**
 
 ## Getting Started
 
-First, run the development server:
+Clone and run the development server:
 
 ```bash
 npm run dev
@@ -34,8 +34,12 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Next Step
+## Next Steps
 
-* Add data sources to make extra predictions for insurance growth rates based on zip code.
+* N/A
 
-* Deploy on Vercel for use.
+## Goal
+
+Check out Next JS for the first time. 
+
+**Result:** I like Next JS now. Fast and intutive to work with. 
